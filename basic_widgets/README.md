@@ -1,4 +1,4 @@
-# temel_widget
+# basic_widgets
 
 A new Flutter application.
 
